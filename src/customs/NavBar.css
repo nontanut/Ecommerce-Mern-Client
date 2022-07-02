@@ -1,0 +1,27 @@
+#cart-icon{
+    position: relative;
+}
+
+#cart-icon span{
+    background: crimson;
+    border-radius: 20px;
+    color: white;
+    position: absolute;
+    top:-5px;
+    right: -10px;
+    padding: 5px 8px;
+    font-size: 10px;
+}
+
+#bg-color {
+    background-color: #ed872d;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.55);
+    border-color: rgba(0,0,0,.3);
+}

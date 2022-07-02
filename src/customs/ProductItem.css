@@ -1,0 +1,42 @@
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+.card-body {
+    white-space: nowrap;
+}
+
+h2:hover {
+    color: #dc3545;
+}
+
+#card-desc {
+    text-overflow: ellipsis;
+}
+
+.card {
+    max-width: 300px;
+}
+
+.btn-link {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.btn {
+    width: 50%;
+    text-transform: uppercase;
+}
+
+/* .btn-b {
+    background-color:#75c095;
+} */
+
+/* .btn-v {
+    background-color: #ebebeb;
+} */
+
+#checkboxAdmin {
+    width: 25px;
+    height: 25px;
+}
