@@ -166,9 +166,9 @@ const Products = () => {
 
         {/* footer */}
         <footer className="footer p-3 text-center" style={{background: "#ed872d"}}>
-            <div className="container">
-                <p className="fw-bold text-light m-0 p-0">Copyright 2022 <span><FontAwesomeIcon icon={faCopyright} /></span> AW Shop || <span><FontAwesomeIcon icon={faPhone} /> 02-4689695</span></p>
-                {/* <p className="fw-bold text-light m-0 p-0"><FontAwesomeIcon icon={faPhone} /> 02-4689695</p> */}
+            <div className="container d-flex justify-content-center" id="phone">
+                <p className="fw-bold text-light m-0 p-0">Copyright 2022 <span><FontAwesomeIcon icon={faCopyright} /></span> AW Shop <span id="tap">||&nbsp;</span></p>
+                <p className="fw-bold text-light m-0 p-0"><FontAwesomeIcon icon={faPhone} />&nbsp;02-4689695</p>
             </div>
         </footer>
         </>

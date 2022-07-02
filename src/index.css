@@ -92,6 +92,15 @@ code {
   }
 }
 
+@media (max-width: 450px) {
+  #phone {
+    display: block!important;
+  }
+  #tap {
+    display: none;
+  }
+}
+
 @media (max-width: 400px) {
   /* filter bar */
   #filterRow {
