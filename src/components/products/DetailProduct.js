@@ -51,7 +51,7 @@ const DetailProduct = () => {
                             <Link to="/cart">
                                 <button 
                                     id="btn_buyNow"
-                                    className="btn btn-danger w-auto" 
+                                    className="btn btn-danger w-auto fw-bold" 
                                     onClick={() => addCart(detailProduct)}
                                     >Buy Now
                                 </button>

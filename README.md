@@ -70,3 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Ecommerce-Mern-Client" 
 "# Ecommerce-Mern-Client" 
+
+### About Function
+1.You can register and try more function.
+2.If you login with your register id you will see more navbar.
+3.Admin Route.
+4.Can create product and edit.
+5.Buy item with paypal or credit.
